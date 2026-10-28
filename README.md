@@ -1,4 +1,4 @@
-## Hi there, I'am Zaineh 👋
+## Hi there, I'm Zaineh 👋
 
 BIT Graduate | 42 Core Student | Aspiring Cybersecurity Professional
 
