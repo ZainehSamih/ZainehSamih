@@ -17,7 +17,7 @@ I'm currently developing my programming skills through hands-on projects and exp
 - [get_next_line](https://github.com/ZainehSameeh/get_next_line.git) — Line-by-line file reading in C
 
 ### Connect
-- [LinkedIn](www.linkedin.com/in/zaineh-al-momani)
+- [LinkedIn](https://www.linkedin.com/in/zaineh-al-momani/)
 - [GitHub](https://github.com/ZainehSameeh)
 
 <!--
